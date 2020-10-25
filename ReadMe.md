@@ -1,5 +1,7 @@
 
-The application uses Spring boot and JPA
+The application uses Spring boot and JPA.
+
+Lombok annotations have been used where applicable.
 
 Unit tests have been done for Repository and Service classes and controllers for some extent
 
